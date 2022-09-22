@@ -17,22 +17,22 @@ activity_cost,
 fatigue
 ) values (
 '6f131e2d-3145-4097-8bfd-ebb23b9805af',
-'futbol',
-'noche',
+'soccer',
+'night',
 7.00,
 false,
 true
 ) , (
 '70f292f4-1032-4bd6-9d94-cdb3a007f1de',
-'cocinar',
-'tarde',
+'cook',
+'afternoon',
 1.00,
 true,
 true
 ) , (
 'e348f83e-5b69-406e-b88a-81281dfd6cf2',
-'correr',
-'mañana',
+'run',
+'morning',
 8.00,
 false,
 true
